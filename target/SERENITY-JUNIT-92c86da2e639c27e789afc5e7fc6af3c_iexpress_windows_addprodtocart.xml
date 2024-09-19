@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="Agregar productos al carrito de aliexpress" skipped="0" tests="1" time="0.84" timestamp="2024-09-17 03:51:31"><testcase name="Yo como comprador en aliexpress"><error message="Index 1 out of bounds for length 1" type="java.lang.IndexOutOfBoundsException">Index 1 out of bounds for length 1</error><system-err>Index 1 out of bounds for length 1&#13;
-com.aliexpress.es.stepDefinitions.BuyProducStepDefinition.queElUsuarioEstaEnElSitioWeb(BuyProducStepDefinition.java:31)&#13;
-✽.que el usuario esta en el sitio web(file:///C:/Users/MateoMoncadaRico/Desktop/Repos/retoEstrategaAliexpressSQA/src/test/resources/features/addProdToCart.feature:7)&#13;
-</system-err></testcase></testsuite>
