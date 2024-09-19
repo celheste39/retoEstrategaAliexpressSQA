@@ -18,7 +18,6 @@ public class BuyProducStepDefinition {
     @Given("que el usuario esta en el sitio web")
     public void queElUsuarioEstaEnElSitioWeb() {
         OnStage.theActorCalled("actor").wasAbleTo(Open.url("https://es.aliexpress.com/"));
-
     }
     @When("intenta agregar productos al carrito")
     public void intentaAgregarProductosAlCarrito() {
